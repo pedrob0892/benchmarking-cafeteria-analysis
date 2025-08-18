@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 # Análise de Benchmarking para uma Cafeteria
 
-Projeto de análise exploratória de cenchmarking para uma cafeteria
+Projeto de análise exploratória de benchmarking para uma cafeteria
 
 ## 📌 Objetivo
 Analisar o mercado de restaurantes em Los Angeles utilizando dados de código aberto, a fim de identificar tendências, concorrência e oportunidades de crescimento, com o objetivo de avaliar a viabilidade e a sustentabilidade em se abrir uma nova cafeteria.
